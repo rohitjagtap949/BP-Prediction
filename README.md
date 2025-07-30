@@ -17,7 +17,7 @@ The project involves:
 | File | Description |
 |------|-------------|
 | `BP_Prediction.ipynb` | Jupyter notebook with full data analysis and model training |
-| `best_model_Random_Forest.pkl` | Saved trained model |
+| `model.pkl` | Saved trained model |
 | `app.py` | Flask backend script for web interface |
 | `templates/index.html` | HTML frontend form |
 | `patient_data.csv` | Dataset used for training and prediction |
